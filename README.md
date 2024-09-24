@@ -1,10 +1,10 @@
 ### Hi, I'm Naz! 👋
 
-🌱 I have a passion for continuous learning and growth.<br>
-🎓 Background in advanced Statistics from Stockholm University.<br>
-🌍 Currently exploring Data Science, Machine Learning, and AI.<br>
-🚀 Always excited about new challenges and projects.<br>
-⚡ I love Statistics, Programming, Data Science, and Art.<br>
+- 🌱 I have a passion for continuous learning and growth.<br>
+- 🎓 Background in advanced Statistics from Stockholm University.<br>
+- 🌍 Currently exploring Data Science, Machine Learning, and AI.<br>
+- 🚀 Always excited about new challenges and projects.<br>
+- ⚡ I love Statistics, Programming, Data Science, and Art.<br>
 
 <!--
 **naz-h/naz-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
