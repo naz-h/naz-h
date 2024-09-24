@@ -1,4 +1,4 @@
-### Hi, I'm Naz! 👋
+### Hi, I'm Naz 👋
 
 - 🌱 I have a passion for continuous learning and growth.<br>
 - 🎓 Background in advanced Statistics from Stockholm University.<br>
